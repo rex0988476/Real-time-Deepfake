@@ -1,7 +1,7 @@
 # Real-time-Deepfake
 ![src](https://github.com/rex0988476/Real-time-Deepfake/blob/main/README/src.jpg)
-![tar](https://github.com/rex0988476/Real-time-Deepfake/blob/main/README/tar.jpg
-![img](https://github.com/rex0988476/Real-time-Deepfake/blob/main/README/img.jpg)
+![tar](https://github.com/rex0988476/Real-time-Deepfake/blob/main/README/tar.jpg)
+![img](https://github.com/rex0988476/Real-time-Deepfake/blob/main/README/img.jpg)  
 真實人臉型虛擬直播主
 
 ## Usage
